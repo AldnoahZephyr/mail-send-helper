@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --noupx --windowed  --name "MailSendHelper" --add-data "assets;assets" --icon "assets\icon.ico"  main.py
